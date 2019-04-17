@@ -1,0 +1,15 @@
+v 3
+
+d state_geocodes: use state geocodes
+d
+d Author: Economic Policy Institute
+d Support: https://github.com/Economic/state_geocodes
+d
+d This package allows users to use the state_geocodes file without having to place the file in their working directory
+d
+d Distribution-Date: 20190417
+d
+
+f read_data.do
+f state_geocodes.sthlp
+f state_geocodes.dta

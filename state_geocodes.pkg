@@ -7,7 +7,7 @@ d Support: https://github.com/Economic/state_geocodes
 d
 d This package allows users to use the state_geocodes file without having to place the file in their working directory
 d
-d Distribution-Date: 20190417
+d Distribution-Date: 20190418
 d
 
 F state_geocodes_read_data.do

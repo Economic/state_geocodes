@@ -10,6 +10,6 @@ d
 d Distribution-Date: 20190417
 d
 
-f read_data.do
-f state_geocodes.sthlp
-f state_geocodes.dta
+F state_geocodes_read_data.do
+F state_geocodes.sthlp
+F state_geocodes.dta

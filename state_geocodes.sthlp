@@ -17,5 +17,4 @@
 
 {pstd}
 {cmd:state_geocodes} allows users to use the state_geocodes file using {cmd:sysuse}
-instead of reading in the file from their working directory. Note that {cmd:sysuse} {cmd:state_geocodes}
-will replace the data in memory.
+instead of reading in the file from their working directory.

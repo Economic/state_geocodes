@@ -1,4 +1,4 @@
-state_name,state_abb,fips,census,division,division_name,region,region_name
+state_name,state_abb,state_fips,state_census,division,division_name,region,region_name
 Connecticut,CT,9,16,1,New England,1,Northeast
 Maine,ME,23,11,1,New England,1,Northeast
 Massachusetts,MA,25,14,1,New England,1,Northeast
